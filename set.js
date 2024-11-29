@@ -31,8 +31,8 @@ AUTO_REACT: process.env.AUTO_REACT || "false",
 BOT_NAME: process.env.BOT_NAME || "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃", // Input Yours custom...(Maintain font for Flow)
 BOT_PIC: process.env.BOT_PIC || "https://files.giftedtech.my.id/file/gifted-md.jpg", // You can Replace with yours...
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
-WELCOME: process.env.WELCOME || "true",
-GOODBYE: process.env.GOODBYE || "true",    
+WELCOME: process.env.WELCOME || "false",
+GOODBYE: process.env.GOODBYE || "false",    
 AUTO_READ_MESSAGES: process.env.AUTO_READ_MESSAGES || "false",
 AUTO_BLOCK: process.env.AUTO_BLOCK || "212,79", // Add Multiple Country Codes Separated by Comma...
 PRESENCE: process.env.PRESENCE || "online", // Choose one: typing, recording, online, null

@@ -17,7 +17,7 @@
     "MODE": {
       "description": "Set Mode  to 'public' or private. Default is 'public'",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "OWNER_NAME": {
       "description": "Ongeri💜💜",

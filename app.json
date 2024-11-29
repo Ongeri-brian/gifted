@@ -10,7 +10,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your session-id here. Must Start with 'Gifted~'",
+      "description": "Gifted~7qxlyI4D#WFhx_f4hGlPGO2NAz6X7sJ-YTS2fZBgokQBSX_mZgRA",
       "required": true,
       "value": ""
     },  
@@ -20,12 +20,12 @@
       "value": "public"
     },
     "OWNER_NAME": {
-      "description": "Put Owner Name Here",
+      "description": "Ongeri💜💜",
       "required": true,
       "value": "Gifted Tech"
     },
     "OWNER_NUMBER": {
-      "description": "Put only one Owner Number Here ie 2547xxxxx",
+      "description": "254713145618",
       "required": true,
       "value": ""
     },
@@ -72,12 +72,12 @@
     "WELCOME": {
       "description": "Put true if you want the bot to automatically welcome participants whenever they join a group",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "GOODBYE": {
       "description": "Put true if you want the bot to automatically send goodbye message whenever participants leave/exit a group",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_AUDIO": {
       "description": "Put true if you want the bot to automatically send audio in chat if you use  words such as: hi, gn, gm",

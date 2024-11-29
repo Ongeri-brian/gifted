@@ -20,7 +20,7 @@ AUTOLIKE_STATUS: process.env.AUTOLIKE_STATUS || "true",
 AUTOLIKE_EMOJI: process.env.AUTOLIKE_EMOJI || "💜", //Input Yours custom...
 AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
 STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "✅️ Status Viewed by Gifted-Md!", // // Input Yours custom...
-MODE: process.env.MODE || "public",
+MODE: process.env.MODE || "private",
 OWNER_NUMBER: process.env.OWNER_NUMBER || "254713145618", // Only 1 owner Number Here, others Add to sudo numbers...
 OWNER_NAME: process.env.OWNER_NAME || "𝐆𝐈𝐅𝐓𝐄𝐃 𝐓𝐄𝐂𝐇", // Input Yours custom...(Maintain font for Flow)
 PREFIX: process.env.PREFIX || ".",
@@ -33,7 +33,7 @@ BOT_PIC: process.env.BOT_PIC || "https://files.giftedtech.my.id/file/gifted-md.j
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
 WELCOME: process.env.WELCOME || "true",
 GOODBYE: process.env.GOODBYE || "true",    
-AUTO_READ_MESSAGES: process.env.AUTO_READ_MESSAGES || "true",
+AUTO_READ_MESSAGES: process.env.AUTO_READ_MESSAGES || "false",
 AUTO_BLOCK: process.env.AUTO_BLOCK || "212,79", // Add Multiple Country Codes Separated by Comma...
 PRESENCE: process.env.PRESENCE || "online", // Choose one: typing, recording, online, null
 TIME_ZONE: process.env.TIME_ZONE || "Africa/Nairobi", // Enter yours else leave blank if not sure

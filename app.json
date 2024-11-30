@@ -47,7 +47,7 @@
     "AUTOLIKE_EMOJI": {
       "description": "Input your custom status like emoji(any) else leave blank to use default => 💜",
       "required": false,
-      "value": "💜"
+      "value": "💜🦋"
     },
     "AUTO_REPLY_STATUS": {
       "description": "Make it 'true' if you want the bot to send message after viewing status",
@@ -72,12 +72,12 @@
     "WELCOME": {
       "description": "Put true if you want the bot to automatically welcome participants whenever they join a group",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "GOODBYE": {
       "description": "Put true if you want the bot to automatically send goodbye message whenever participants leave/exit a group",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_AUDIO": {
       "description": "Put true if you want the bot to automatically send audio in chat if you use  words such as: hi, gn, gm",

@@ -10,9 +10,9 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "",
+      "description": "Gifted~6z5ADLLD#2Ri1mdsl8lrloeQjHV1GS3OCgtIzMG0sReS2owE8dHM",
       "required": true,
-      "value": ""
+      "value": "true"
     },  
     "MODE": {
       "description": "Set Mode  to 'public' or private. Default is 'public'",

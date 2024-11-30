@@ -32,7 +32,7 @@
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here ie 2547xxxx,2557xxxxx,928xxxxx. Sudos have same rights as owner(can command the bot)",
       "required": false,
-      "value": "0713145618"
+      "value": ""
     },
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot to view statuses",

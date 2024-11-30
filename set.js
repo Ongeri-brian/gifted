@@ -17,7 +17,7 @@ SESSION_ID: process.env.SESSION_ID || "Gifted~6z5ADLLD#2Ri1mdsl8lrloeQjHV1GS3OCg
 SUDO_NUMBERS: process.env.SUDO_NUMBERS || "254713145618", //Add multiple Numbers with Country Codes without (+) Separated by Comma...
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTOLIKE_STATUS: process.env.AUTOLIKE_STATUS || "true",
-AUTOLIKE_EMOJI: process.env.AUTOLIKE_EMOJI || "💜", //Input Yours custom...
+AUTOLIKE_EMOJI: process.env.AUTOLIKE_EMOJI || "💜🦋", //Input Yours custom...
 AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
 STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "✅️ Status Viewed by Gifted-Md!", // // Input Yours custom...
 MODE: process.env.MODE || "public",
@@ -31,8 +31,8 @@ AUTO_REACT: process.env.AUTO_REACT || "false",
 BOT_NAME: process.env.BOT_NAME || "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃", // Input Yours custom...(Maintain font for Flow)
 BOT_PIC: process.env.BOT_PIC || "https://files.giftedtech.my.id/file/gifted-md.jpg", // You can Replace with yours...
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
-WELCOME: process.env.WELCOME || "true",
-GOODBYE: process.env.GOODBYE || "true",    
+WELCOME: process.env.WELCOME || "false",
+GOODBYE: process.env.GOODBYE || "false",    
 AUTO_READ_MESSAGES: process.env.AUTO_READ_MESSAGES || "false",
 AUTO_BLOCK: process.env.AUTO_BLOCK || "212,79", // Add Multiple Country Codes Separated by Comma...
 PRESENCE: process.env.PRESENCE || "online", // Choose one: typing, recording, online, null

@@ -12,7 +12,7 @@
     "SESSION_ID": {
       "description": "Gifted~6z5ADLLD#2Ri1mdsl8lrloeQjHV1GS3OCgtIzMG0sReS2owE8dHM",
       "required": true,
-      "value": "true"
+      "value": ""
     },  
     "MODE": {
       "description": "Set Mode  to 'public' or private. Default is 'public'",
@@ -27,7 +27,7 @@
     "OWNER_NUMBER": {
       "description": "254713145618",
       "required": true,
-      "value": "true"
+      "value": ""
     },
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here ie 2547xxxx,2557xxxxx,928xxxxx. Sudos have same rights as owner(can command the bot)",
@@ -72,12 +72,12 @@
     "WELCOME": {
       "description": "Put true if you want the bot to automatically welcome participants whenever they join a group",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "GOODBYE": {
       "description": "Put true if you want the bot to automatically send goodbye message whenever participants leave/exit a group",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_AUDIO": {
       "description": "Put true if you want the bot to automatically send audio in chat if you use  words such as: hi, gn, gm",

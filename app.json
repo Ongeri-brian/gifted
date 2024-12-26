@@ -10,7 +10,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Gifted~6z5ADLLD#2Ri1mdsl8lrloeQjHV1GS3OCgtIzMG0sReS2owE8dHM",
+      "description": "Gifted~qqxzTLZI#YSwMVS7fjlbmU8MecrYilRzQXiNLlJEL3y3q-v935cQ",
       "required": true,
       "value": ""
     },  
@@ -22,7 +22,7 @@
     "OWNER_NAME": {
       "description": "Ongeri💜💜",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "Ongeri Brian"
     },
     "OWNER_NUMBER": {
       "description": "254713145618",
@@ -47,7 +47,7 @@
     "AUTOLIKE_EMOJI": {
       "description": "Input your custom status like emoji(any) else leave blank to use default => 💜",
       "required": false,
-      "value": "💜🦋"
+      "value": "💜"
     },
     "AUTO_REPLY_STATUS": {
       "description": "Make it 'true' if you want the bot to send message after viewing status",
@@ -102,7 +102,7 @@
     "ANTICALL": {
       "description": "Make it 'true' if you want to automatically reject calls",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "ANTICALL_MSG": {
       "description": "Put Your own Anticall Message the bot will send after rejecting calls",
@@ -112,7 +112,7 @@
     "BOT_NAME": {
       "description": "You can edit this but maintain font style for uniformity. Use 'Fonts Type Keyboard' for styles.",
       "required": true,
-      "value": "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃"
+      "value": "ONGERI-MD"
     },
     "BOT_PIC": {
       "description": "You can edit this but it must be a valid image url(link).",
